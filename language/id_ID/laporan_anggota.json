@@ -1,0 +1,23 @@
+ {
+   "judul"       : "Laporan Anggota",
+   "judulmodal"  : "Laporan Anggota",
+   "kembali"     : "Kembali ",
+   "placeholderr": "Cari Nama",
+"table" :{
+      "id"           : "Id Anggota",
+      "namalengkap"  : "Nama Anggota",
+      "jumlah"       : "Jumlah Buku",
+      "denda"        : "Denda",
+      "lihat"        : "Lihat"
+},
+"table2" : {
+    "idbuku"       : "ID Buku",
+    "judul"        : "Judul",
+    "denda"        : "Denda"
+    },
+"filter" : {
+    "semua"          : "Semua",
+    "MasihPinjam"    : "Masih Pinjam",
+    "SudahKembali"   : "Sudah Kembali"
+    }
+}

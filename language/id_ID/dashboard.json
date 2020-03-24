@@ -1,0 +1,17 @@
+{
+    "headertitle" : "Perpustakaan PAPSI",
+    "headermenu"  : {
+        "home"         : "Beranda",
+        "transactions" : "Transaksi",
+        "reports"      : "Laporan",
+        "libraries"    : "Buku",
+        "members"      : "Anggota",
+        "settings"     : "Pengguna",
+        "about"        : "Tentang"
+    },
+    "headeruser" : {
+        "profile"         : "Profil saya",
+        "accountsettings" : "Pengaturan akun",
+        "logout"          : "Keluar"
+    }
+}

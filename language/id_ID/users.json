@@ -1,0 +1,34 @@
+{
+    "adduser" : "Tambah Pengguna",
+    "search"    : "Cari",
+    "modaladd"  : {
+        "title"     : "Pengguna baru",
+        "id"        : "Nama Pengguna",
+        "name"      : "Nama Lengkap",
+        "password"  : "Kata sandi",
+        "confirm"   : "Konfirmasi sandi",
+        "level"     : "Tingkatan",
+        "btnsubmit" : "Tambah",
+        "btncancel" : "Batal"
+    },
+    "modaledit" : {
+        "title"     : "Sunting data {name}",
+        "name"      : "Nama Lengkap",
+        "level"     : "Tingkatan",
+        "btnsubmit" : "Sunting",
+        "btncancel" : "Batal"
+    },
+    "modaldelete" : {
+        "message"   : "Hapus pengguna yang bernama {name}?",
+        "btndelete" : "Ya",
+        "btncancel" : "Tidak"
+    },
+    "table" : {
+        "name"    : "Nama Lengkap",
+        "id"      : "Nama Pengguna",
+        "level"   : "Jabatan",
+        "action"  : "Tindakan",
+        "edit"    : "Sunting",
+        "delete"  : "Hapus"
+    }
+}

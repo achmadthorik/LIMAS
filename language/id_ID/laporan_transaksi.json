@@ -1,0 +1,25 @@
+{
+  "judul"      : "Laporan Transaksi",
+  "judulmodal" : "Detail Transaksi",
+  "kembali"    : "kembali",
+  "detail"     : "Lihat",
+  "placeholderr": "Cari Id Buku",
+  "table" : {
+        "idbuku"        : "Kode Buku",
+        "judul"			    : "Judul Buku",
+        "jumlah"        : "Jumlah Peminjam",
+        "view"          : "Lihat"
+  },
+  "table2" : {
+    "anggota"          : "Nama Anggota",
+    "tglpinjam"        : "Tanggal Peminjaman",
+    "tglhsruskembali"  : "Tanggal Harus Kembali",
+    "tglpengembalian"  : "Tanggal Pengembalian",
+    "denda"            : "Denda"
+  },
+  "filter" : {
+    "semua"           : "Semua",
+    "Peminjaman"     : "Peminjaman",
+    "Pengembalian"   : "Pengembalian"
+  }
+}

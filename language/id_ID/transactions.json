@@ -1,0 +1,49 @@
+{
+    "tabs" : {
+        "borrow" : "Peminjaman",
+        "return" : "Pengembalian"
+    },
+    "borrow" : {
+        "newtransaction" : "Transaksi baru",
+        "transactiondata": {
+            "title" : "Data transaksi",
+            "memberid" : "ID Anggota",
+            "btnok" : "Ok",
+            "btnedit"  : "Ubah",
+            "duedate" : "Lama pinjam",
+            "days"    : "Hari"
+        },
+        "borrowbook" : {
+            "title" : "Pinjam buku",
+            "bookid" : "ID Buku"
+        },
+        "table" : {
+            "listsofborrowedbooks" : "Daftar buku yang akan dipinjam",
+            "index"                : "No",
+            "bookid"               : "ID Buku",
+            "booktitle"            : "Judul Buku"
+        }
+    },
+    "return" : {
+        "newtransaction"  : "Transaksi baru",
+        "transactiondata" : {
+            "title"       : "Data transaksi",
+            "memberid"    : "ID Anggota",
+            "btnok"       : "Ok",
+            "btnedit"     : "Ubah",
+            "duedate"     : "Jatuh tempo"
+        },
+        "returnbook" : {
+            "title"  : "Data buku",
+            "bookid" : "ID Buku"
+        },
+        "table" : {
+            "listsofborrowedbooks"     : "Daftar buku yang sedang dipinjam",
+            "listsofbookswanttoreturn" : "Daftar buku yang akan dikembalikan",
+            "index"                    : "No",
+            "bookid"                   : "ID Buku",
+            "booktitle"                : "Judul Buku",
+            "duedate"                  : "Tanggal jatuh tempo"
+        }
+    }
+}

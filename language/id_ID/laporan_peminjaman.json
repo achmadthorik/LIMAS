@@ -1,0 +1,18 @@
+{
+      "judul"			      : "Laporan Buku Pinjam",
+      "judulmodal"		  : "Laporan Peminjaman",
+      "kembali"		      : "Kembali",
+
+      "table" : {
+        "idlokasi"		    : "Id Buku",
+        "judul"			      : "Judul Buku",
+        "jumlah"		      : "Jumlah",
+        "lihat" 		      : "Lihat"
+      },
+      "table2" : {
+        "idtransaksi"		  : "Id Transaksi",
+        "namapeminjam"		: "Nama Peminjam",
+        "tglhraskembali"	: "Pengguna",
+        "pengguna"		    : "Tanggal Harus Kembali"
+      }
+}

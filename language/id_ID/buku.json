@@ -1,0 +1,44 @@
+{
+  "addbuku"   : "Tambah Buku",
+  "search"    : "Cari Judul Buku",
+    "modaladd"    : {
+        "title"       : "Buku baru",
+        "id"          : "ID",
+        "titlee"      : "Judul",
+        "description" : "Deskripsi",
+        "category"    : "Jenis",
+        "jumlah"      : "Jumlah",
+        "location"    : "Lemari",
+        "action"      : "Perintah",
+        "btnsubmit"   : "Tambah",
+        "btncancel"   : "Batal"
+    },
+    "modaledit"   : {
+        "title"       : "Sunting Buku {title}",
+        "id"          : "ID",
+        "titlee"      : "Judul",
+        "description" : "Deskripsi",
+        "category"    : "Jenis",
+        "jumlah"      : "Jumlah",
+        "location"    : "Lemari",
+        "action"      : "Perintah",
+        "btnsubmit"   : "Sunting",
+        "btncancel"   : "Batal"
+    },
+    "table"       : {
+        "id"          : "ID",
+        "title"       : "Judul",
+        "description" : "Deskripsi",
+        "category"    : "Jenis",
+        "jumlah"      : "Jumlah",
+        "location"    : "Lemari",
+        "action"      : "Perintah",
+        "edit"        : "Sunting",
+        "delete"      : "Hapus"
+    },
+    "modaldelete" : {
+        "message"     : "Apakah Anda Ingin Menghapus {title}?",
+        "btndelete"   : "Ya",
+        "btncancel"   : "Tidak"
+    }
+}

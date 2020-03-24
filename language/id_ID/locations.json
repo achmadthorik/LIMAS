@@ -1,0 +1,36 @@
+{
+      "addlocation"	  : "Tambah Lokasi",
+      "search"        : "Cari",
+      
+      "modaladd"	    : {
+          "title"		      : "Lokasi Baru",
+          "namarak"	      : "Nama Rak",
+          "bagianrak"	    : "Bagian Rak",
+          "btnsubmit"	    : "Tambah",
+          "btncancel"	    : "Batal"
+      },
+
+      "modaledit"     : {
+          "title"		       : "Sunting data lokasi Id {kodelokasi}",
+          "kodelokasi"	   : "Kode Lokasi",
+          "namarak"	       : "Nama Rak",
+          "bagianrak"	     : "Bagian Rak",
+          "btnsubmit"	     : "Sunting",
+          "btncancel"	     : "Batal"
+      },
+
+      "modaldelete"   : {
+          "message" 	     : "Apakah Anda Ingin Menghapus Id {kodelokasi}?",
+          "btndelete"	     : "Ya",
+          "btncancel"	     : "Batal"
+      },
+
+      "table"         : {
+          "id"		      : "KODE",
+          "name"		    : "Nama Rak",
+          "address"	    : "Bagian Rak",
+          "action"	    : "Perintah",
+          "edit"		    : "Sunting",
+          "delete"	    : "Hapus"
+      }
+}

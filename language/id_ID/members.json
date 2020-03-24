@@ -1,0 +1,35 @@
+{
+    "addmember" : "Tambah Anggota",
+    "search"    : "Cari",
+    "modaladd"  : {
+        "title"     : "Anggota baru",
+        "id"        : "ID Anggota",
+        "name"      : "Nama Lengkap",
+        "address"   : "Alamat",
+        "phone"     : "Telepon",
+        "btnsubmit" : "Tambah",
+        "btncancel" : "Batal"
+    },
+    "modaledit" : {
+        "title"     : "Sunting data {name}",
+        "name"      : "Nama Lengkap",
+        "address"   : "Alamat",
+        "phone"     : "Telepon",
+        "btnsubmit" : "Sunting",
+        "btncancel" : "Batal"
+    },
+    "modaldelete" : {
+        "message"   : "Hapus anggota yang bernama {name}?",
+        "btndelete" : "Ya",
+        "btncancel" : "Tidak"
+    },
+    "table" : {
+        "id"      : "ID",
+        "name"    : "Nama",
+        "address" : "Alamat",
+        "phone"   : "Telpon",
+        "action"  : "Tindakan",
+        "edit"    : "Sunting",
+        "delete"  : "Hapus"
+    }
+}
